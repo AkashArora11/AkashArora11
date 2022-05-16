@@ -4,9 +4,9 @@
 <p dir="auto">I'm a Python/Django Developer!💻 & exploring New technologies⭐, developing Web applications and passionate about technology. 🚀</p>
 <p dir="auto">This is the place where I opensource stuff and break things <g-emoji class="g-emoji" alias="rofl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f923.png">🤣</g-emoji></p>
 
-- 🔭 I’m currently working on **Something Cool 😉**
+- 🔭 I’m currently working on **Full Stack Web Applications.**
 
-- 🌱 I’m currently learning **Django Rest Framework,Video Editing.**
+- 🌱 I’m currently learning **Django-Rest Framework, Video Editing.**
 
 - 💬 Ask me about <code>**Python/Django**</code>
 
